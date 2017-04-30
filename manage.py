@@ -2,6 +2,9 @@
 import os
 import sys
 
+"""
+2017/4/30
+"""
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "pydash.settings")
 
